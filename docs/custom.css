@@ -1,0 +1,9 @@
+/* Optionally, hide the "Edit on GitHub" link if needed */
+.md-footer-meta .md-footer-meta-item:contains("Edit on GitHub") {
+    display: none;
+}
+
+/* Remove the "Made with Material for MkDocs" statement */
+.md-footer-meta .md-footer-meta-item.md-footer-theme:after {
+    content: "Made with Material for MkDocs"; /* Set content to empty */
+}
