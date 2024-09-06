@@ -510,45 +510,39 @@ To ensure the RAAD EHR system’s success beyond its initial deployment, a detai
     - Establish public-private partnerships with other organizations supporting health interventions and telecom companies.
 
 * **Cost Management and Efficiency:**
-
   - Implement cost-saving measures to control expenses:
     - Centralize procurement for ICT equipment and software to leverage bulk purchasing.
     - Use cloud-based infrastructure where feasible to reduce hardware and maintenance costs.
     - Utilize open-source software for the computing equipment to minimize licensing fees.
 
 * **Ongoing Maintenance and Support:**
-
-- Ensure continuous system functionality and minimize downtime:
-  - Establish dedicated IT support teams within the State and at Federal level for regular monitoring, updates, and troubleshooting.
-  - Set up service-level agreements (SLAs) with vendors/providers for timely system updates and support (e.g Internet service providers within the health facilities).
-  - Allocate a specific budget for maintenance, server updates, hardware replacements, and user support.
+  - Ensure continuous system functionality and minimize downtime:
+    - Establish dedicated IT support teams within the State and at Federal level for regular monitoring, updates, and troubleshooting.
+    - Set up service-level agreements (SLAs) with vendors/providers for timely system updates and support (e.g Internet service providers within the health facilities).
+    - Allocate a specific budget for maintenance, server updates, hardware replacements, and user support.
 
 * **Capacity Building and Training for Long-term Use:**
-
-- Continually enhance the training program to ensure long-term usability:
-  - Provide continuous and refresher training for healthcare workers to ensure they remain proficient in using the RAAD EHR.
-  - Invest in training local IT specialists to reduce dependence on external consultants for system management and troubleshooting.
-  - Offer incentives to retain skilled staff within the healthcare ecosystem to ensure sustainability.
+  - Continually enhance the training program to ensure long-term usability:
+    - Provide continuous and refresher training for healthcare workers to ensure they remain proficient in using the RAAD EHR.
+    - Invest in training local IT specialists to reduce dependence on external consultants for system management and troubleshooting.
+    - Offer incentives to retain skilled staff within the healthcare ecosystem to ensure sustainability.
 
 * **Scalability and Adaptability:**
-
-- Design the system for long-term scalability and adaptability:
-  - Use a modular design that allows for the integration of new features without disrupting the current system.
-  - Plan for a phased scale-up across various facility types, starting with well-resourced centers and expanding to smaller, remote facilities.
-  - Utilize data from the RAAD EHR to guide resource allocation based on healthcare needs.
+  - Design the system for long-term scalability and adaptability:
+    - Use a modular design that allows for the integration of new features without disrupting the current system.
+    - Plan for a phased scale-up across various facility types, starting with well-resourced centers and expanding to smaller, remote facilities.
+    - Utilize data from the RAAD EHR to guide resource allocation based on healthcare needs.
 
 * **Monitoring, Evaluation, and Adaptation:**
-
-- Continuously monitor the system’s performance and financial health:
-  - Conduct regular evaluations to assess the system’s impact on healthcare outcomes, such as patient care and service delivery.
-  - Carry out financial audits to evaluate the system’s operational costs and make budget adjustments based on the latest data.
+  - Continuously monitor the system’s performance and financial health:
+    - Conduct regular evaluations to assess the system’s impact on healthcare outcomes, such as patient care and service delivery.
+    - Carry out financial audits to evaluate the system’s operational costs and make budget adjustments based on the latest data.
 
 * **Government and Policy Support:**
-
-- Ensure strong government backing and policy alignment:
-  - Institutionalize the RAAD EHR system as a core component of the national health enterprise architecture and infrastructure.
-  - Work with government agencies to integrate the RAAD EHR into federal and state level health strategies.
-  - Secure legislative support to guarantee ongoing funding and policy alignment, ensuring the system remains a top healthcare priority.
+  - Ensure strong government backing and policy alignment:
+    - Institutionalize the RAAD EHR system as a core component of the national health enterprise architecture and infrastructure.
+    - Work with government agencies to integrate the RAAD EHR into federal and state level health strategies.
+    - Secure legislative support to guarantee ongoing funding and policy alignment, ensuring the system remains a top healthcare priority.
 
 ## RAAD EHR Functionality Overview
 
