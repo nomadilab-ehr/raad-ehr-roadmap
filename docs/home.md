@@ -292,7 +292,7 @@ The initial development phase of the RAAD EHR focuses on the MOHs immediate goal
 To effectively scale up the RAAD EHR system, it is essential to first assess the existing equipment, personnel and their capacity in the health facilities to identify any gaps to be addressed. 
 Below is an inventory of essential ICT equipment needed for different RAAD EHR configurations based on the facility needs.
 
-# RAAD Setup Equipment Breakdown
+### RAAD Setup Equipment Breakdown
 
 | **Equipment**                       | **Full RAAD Setup (Hospitals and Health Centers)**                                                                                  | **Mid-size RAAD Setup (Medium Health Centres)**                                                                                    | **Small-size RAAD Setup (Primary health units)**                                                                                  |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
