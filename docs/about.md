@@ -1,49 +1,39 @@
 # About RAAD EHR Roadmap
 
-## Introduction
+## Purpose of Roadmap
+The purpose of the RAAD EHR roadmap is to provide a blueprint on the implementation and roll out of the RAAD EHR in Somalia, timeline, costs and the  anticipated plan of actions by the Federal and States Ministry of Health. The document gives guidance to implementers, users and funders on the work the Ministry of Health is carrying out, and the goals and objectives  intended to be achieved.
 
-Welcome to the official page of the RAAD EHR (Electronic Health Records) Roadmap in the Federal Republic of Somalia. This initiative represents a significant step forward in the enhancement of healthcare services through the implementation of cutting-edge technology.
+The EHR roadmap describes what has been achieved to-date and describes further on how the Federal and State Ministry of Health plans to better coordinate the expansion and integration into the health service delivery at all levels through setting up of ICT infrastructure, and the training of health workers in the use of ICT to improve efficiency of health services delivery.
 
-## Vision
+The RAAD EHR system roadmap is a living document and will continue to receive regular updates on quarterly and annual basis given the dynamic nature of delivering health services, new learning and improvements from the pilot implementation, and the changes in the technology. 
 
-Our vision is to create a robust and interconnected healthcare system that leverages modern technology to provide efficient, secure, and accessible health services for the people of Somalia. The RAAD EHR Roadmap is designed to streamline medical processes, improve patient care, and contribute to the overall well-being of the nation.
+### EHR Objectives
 
-## Mission
+The overall goal of the RAAD EHR development and deployment is to implement a standards-based, interoperable, patient-centric system that supports end-to-end patient care and management across the continuum of care. This aims to ensure the delivery of high-quality health services and facilitate timely, accurate reporting for evidence-based decision-making.
 
-The mission of the RAAD EHR Roadmap is to establish an integrated and comprehensive Electronic Health Records system that spans across healthcare facilities in Somalia. This initiative aims to digitize health information, facilitate data sharing among medical professionals, and enhance the overall healthcare infrastructure.
+The specific objectives of the RAAD EHR are as follows:
 
-## Objectives
+* Enhance patient care and management throughout the continuum of care.
 
-- **Digitization of Health Records**: Transitioning from paper-based records to electronic health records to improve data accuracy and accessibility.
+* Improve the quality of care within the health delivery system.
 
-- **Interoperability**: Ensuring seamless communication and data exchange between different healthcare systems and facilities.
+* Support patient care and management at all levels of the healthcare system.
 
-- **Capacity Building**: Providing training and support to healthcare professionals to effectively utilize and manage the new EHR system.
+* Ensure integration and interoperability with other health systems, including seamless integration with Somalia's HMIS (DHIS2) for monthly reporting.
 
-- **Improved Patient Care**: Enhancing the quality of healthcare services by enabling quick access to patient information and medical histories.
+* Provide timely and accurate information to support evidence-based decision-making at all levels of healthcare delivery.
 
-## Key Components
+ 
+### Short-Term Outputs/Outcomes 
 
-The RAAD EHR Roadmap integrates various components, including:
+Digitize all existing paper-based registers and integrate them into the EHR platform for seamless data management.
 
-- **OpenMRS**: Serving as the core EHR platform, OpenMRS provides a foundation for organizing and managing patient data.
+Establish the minimum required ICT infrastructure to fully operationalize the EHR system across health facilities.
 
-- **Odoo**: Managing hospital operations, billing, and inventory, ensuring a streamlined administrative process.
+Complete EHR installation in at least 70% of service delivery points, ensuring widespread adoption and functionality.
 
-- **OpenELIS**: Providing a robust lab management platform integrated with the EHR for comprehensive patient care.
+Conduct comprehensive training for healthcare workers on using the EHR system and digital tools for effective patient and client management.
 
-- **DCM4CHEE**: Managing medical images through a PACS system for efficient storage and retrieval.
+Achieve 90% integration of report generation with DHIS2, ensuring timely and accurate health data reporting.
 
-- **PostgreSQL**: Serving as the database for storing patient data securely.
-
-## Collaborators
-
-The success of the RAAD EHR Roadmap is a result of collaborative efforts between government entities, healthcare professionals, and technology partners.
-
-## Contact Us
-
-For inquiries, partnerships, or further information, please reach out to us at [www.hmis.moh.gov.so](https://www.hmis.moh.gov.so/)
-
-Thank you for joining us on this transformative journey towards a healthier Somalia.
-
-*RAAD EHR Roadmap Team*
+*RAAD EHR Roadmap*
