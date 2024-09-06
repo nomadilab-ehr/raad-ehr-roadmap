@@ -72,15 +72,15 @@ The specific objectives of the RAAD EHR are as follows:
 
 ### Short-Term Outputs/Outcomes 
 
-Digitize all existing paper-based registers and integrate them into the EHR platform for seamless data management.
+* Digitize all existing paper-based registers and integrate them into the EHR platform for seamless data management.
 
-Establish the minimum required ICT infrastructure to fully operationalize the EHR system across health facilities.
+* Establish the minimum required ICT infrastructure to fully operationalize the EHR system across health facilities.
 
-Complete EHR installation in at least 70% of service delivery points, ensuring widespread adoption and functionality.
+* Complete EHR installation in at least 70% of service delivery points, ensuring widespread adoption and functionality.
 
-Conduct comprehensive training for healthcare workers on using the EHR system and digital tools for effective patient and client management.
+* Conduct comprehensive training for healthcare workers on using the EHR system and digital tools for effective patient and client management.
 
-Achieve 90% integration of report generation with DHIS2, ensuring timely and accurate health data reporting.
+* Achieve 90% integration of report generation with DHIS2, ensuring timely and accurate health data reporting.
 
 ### EHR Justification
 
