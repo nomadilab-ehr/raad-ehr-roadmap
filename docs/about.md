@@ -7,7 +7,7 @@ The EHR roadmap describes what has been achieved to-date and describes further o
 
 The RAAD EHR system roadmap is a living document and will continue to receive regular updates on quarterly and annual basis given the dynamic nature of delivering health services, new learning and improvements from the pilot implementation, and the changes in the technology. 
 
-### EHR Objectives
+## EHR Objectives
 
 The overall goal of the RAAD EHR development and deployment is to implement a standards-based, interoperable, patient-centric system that supports end-to-end patient care and management across the continuum of care. This aims to ensure the delivery of high-quality health services and facilitate timely, accurate reporting for evidence-based decision-making.
 
@@ -24,16 +24,16 @@ The specific objectives of the RAAD EHR are as follows:
 * Provide timely and accurate information to support evidence-based decision-making at all levels of healthcare delivery.
 
  
-### Short-Term Outputs/Outcomes 
+## Short-Term Outputs/Outcomes 
 
-Digitize all existing paper-based registers and integrate them into the EHR platform for seamless data management.
+* Digitize all existing paper-based registers and integrate them into the EHR platform for seamless data management.
 
-Establish the minimum required ICT infrastructure to fully operationalize the EHR system across health facilities.
+* Establish the minimum required ICT infrastructure to fully operationalize the EHR system across health facilities.
 
-Complete EHR installation in at least 70% of service delivery points, ensuring widespread adoption and functionality.
+* Complete EHR installation in at least 70% of service delivery points, ensuring widespread adoption and functionality.
 
-Conduct comprehensive training for healthcare workers on using the EHR system and digital tools for effective patient and client management.
+* Conduct comprehensive training for healthcare workers on using the EHR system and digital tools for effective patient and client management.
 
-Achieve 90% integration of report generation with DHIS2, ensuring timely and accurate health data reporting.
+* Achieve 90% integration of report generation with DHIS2, ensuring timely and accurate health data reporting.
 
 *RAAD EHR Roadmap*
